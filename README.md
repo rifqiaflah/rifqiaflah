@@ -7,9 +7,7 @@ Selamat datang di portofolio saya! Saya adalah seorang **Linux Administrator** d
 - Administrasi Linux (Debian, Ubuntu)
 - Pengelolaan layanan Cloud (AWS)
 - CI/CD dasar dengan GitHub Actions
-
-## 📂 Isi Repositori
-
+  
 ### `linux-scripts/`
 Berisi skrip Bash untuk kebutuhan administrasi harian seperti backup, manajemen user, dan pembersihan log.
 
@@ -21,6 +19,6 @@ Contoh automasi menggunakan `aws-cli` dan `cloud-init` untuk provisioning instan
 
 ## 📫 Kontak
 
-- 📧 Email: yourname@example.com  
+- 📧 Email: muhamadrifqiaflah2008@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
 - 🔗 GitHub: [github.com/yourusername](https://github.com/yourusername)
