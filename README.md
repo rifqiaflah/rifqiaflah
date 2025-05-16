@@ -9,6 +9,10 @@ Selamat datang di portofolio saya! Saya adalah seorang **Linux Administrator** d
 - CI/CD dasar dengan GitHub Actions
   
 ### `linux-scripts/`
+├── backup-script.sh
+├── user-management.sh
+└── log-cleaner.sh
+
 Berisi skrip Bash untuk kebutuhan administrasi harian seperti backup, manajemen user, dan pembersihan log.
 
 ### `terraform-projects/`
@@ -20,7 +24,7 @@ Contoh automasi menggunakan `aws-cli` dan `cloud-init` untuk provisioning instan
 ## 📫 Kontak
 
 <a href="https://linkedin.com/in/muhammad-rifqi-aflah" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin" />
 </a>
 <a href="https://instagram.com/muhaiqi" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-Follow-critical?logo=instagram" />
