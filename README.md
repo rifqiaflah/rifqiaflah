@@ -10,10 +10,10 @@ Selamat datang di portofolio saya! Saya adalah seorang **Linux Administrator** d
 
 ## 📂 Isi Repositori
   
-### `linux-scripts/`
-├── backup-script.sh <br>
-├── user-management.sh <br>
-└── log-cleaner.sh
+### `linux-scripts/script`
+├── backup_script.sh <br>
+├── user_management.sh <br>
+└── log_cleaner.sh
 
 Berisi skrip Bash untuk kebutuhan administrasi harian seperti backup, manajemen user, dan pembersihan log.
 
