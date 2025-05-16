@@ -7,6 +7,8 @@ Selamat datang di portofolio saya! Saya adalah seorang **Linux Administrator** d
 - Administrasi Linux (Debian, Ubuntu)
 - Pengelolaan layanan Cloud (AWS)
 - CI/CD dasar dengan GitHub Actions
+
+## 📂 Isi Repositori
   
 ### `linux-scripts/`
 ├── backup-script.sh
