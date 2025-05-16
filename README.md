@@ -8,7 +8,7 @@ Selamat datang di portofolio saya! Saya adalah seorang **Linux Administrator** d
 - Pengelolaan layanan Cloud (AWS)
 - CI/CD dasar dengan GitHub Actions
 
-## 📂 Isi Repositori <a href="">
+## 📂 Isi Repositori <a href="https://github.com/rifqiaflah/rifqiaflah/blob/main/README.md">
   
 ### `linux-scripts/`
 ├── backup-script.sh <br>
