@@ -8,12 +8,12 @@ Selamat datang di portofolio saya! Saya adalah seorang **Linux Administrator** d
 - Pengelolaan layanan Cloud (AWS)
 - CI/CD dasar dengan GitHub Actions
 
-## 📂 Isi Repositori
+## 📂 Isi Repositori <a href="">
   
-### `linux-scripts/script`
-├── backup_script.sh <br>
-├── user_management.sh <br>
-└── log_cleaner.sh
+### `linux-scripts/`
+├── backup-script.sh <br>
+├── user-management.sh <br>
+└── log-cleaner.sh
 
 Berisi skrip Bash untuk kebutuhan administrasi harian seperti backup, manajemen user, dan pembersihan log.
 
