@@ -19,6 +19,6 @@ Contoh automasi menggunakan `aws-cli` dan `cloud-init` untuk provisioning instan
 
 ## 📫 Kontak
 
-- 📧 Email: muhamadrifqiaflah2008@gmail.com  
+- [![Email](https://img.shields.io/badge/Email-Send-green?logo=gmail)](mailto:muhamadrifqiaflah2008@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/muhammad-rifqi-aflah)  
 - [![Instagram](https://img.shields.io/badge/Instagram-Follow-critical?logo=instagram)](https://instagram.com/yourusername)
