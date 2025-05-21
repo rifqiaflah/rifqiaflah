@@ -8,7 +8,7 @@ Selamat datang di portofolio saya! Saya adalah seorang **Linux Administrator** d
 - Pengelolaan layanan Cloud (AWS)
 - CI/CD dasar dengan GitHub Actions
 
-<a href="https://linkedin.com/in/muhammad-rifqi-aflah" target="_blank"><h2>📂 Isi Repositori</h2></a>
+## 📂 Isi Repositori
   
 ### `linux-scripts/`
 ├── backup-script.sh <br>
