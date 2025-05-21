@@ -8,7 +8,7 @@ Selamat datang di portofolio saya! Saya adalah seorang **Linux Administrator** d
 - Pengelolaan layanan Cloud (AWS)
 - CI/CD dasar dengan GitHub Actions
 
-## 📂 Isi Repositori <a href="https://github.com/rifqiaflah/rifqiaflah/blob/main/README.md">
+<a href="https://github.com/rifqiaflah/rifqiaflah/blob/main/README.md";><h2>📂 Isi Repositori</h2></a>
   
 ### `linux-scripts/`
 ├── backup-script.sh <br>
@@ -16,9 +16,6 @@ Selamat datang di portofolio saya! Saya adalah seorang **Linux Administrator** d
 └── log-cleaner.sh
 
 Berisi skrip Bash untuk kebutuhan administrasi harian seperti backup, manajemen user, dan pembersihan log.
-
-### `terraform-projects/`
-Contoh infrastruktur sebagai kode (IaC) untuk membuat resource di AWS.
 
 ### `cloud-automation/`
 Contoh automasi menggunakan `aws-cli` dan `cloud-init` untuk provisioning instance.
